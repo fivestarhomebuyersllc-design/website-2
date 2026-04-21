@@ -1,0 +1,15 @@
+{
+  "name": "5-star-home-buyers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A conversion-focused lead generation website for a service business.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "cf:dev": "npx wrangler pages dev public",
+    "cf:deploy": "npx wrangler pages deploy public"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

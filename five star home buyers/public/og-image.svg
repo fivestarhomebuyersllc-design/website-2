@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="5 Star Home Buyers social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7f2e9"/>
+      <stop offset="100%" stop-color="#efe3cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="940" cy="160" r="220" fill="#1c2a33" opacity=".08"/>
+  <circle cx="1030" cy="510" r="240" fill="#b98a49" opacity=".12"/>
+  <path d="M220 280l145-110 145 110v95H220v-95Z" fill="#171311"/>
+  <path d="M255 275h210v65H255z" fill="#fffaf3"/>
+  <path d="M305 220h115v120H305z" fill="#171311" opacity=".15"/>
+  <text x="190" y="420" font-family="Georgia, serif" font-size="74" font-weight="700" fill="#171311">5 STAR HOME BUYERS</text>
+  <text x="190" y="475" font-family="Arial, sans-serif" font-size="30" letter-spacing="7" fill="#65584a">YOUR SELLING SOLUTION</text>
+  <text x="190" y="555" font-family="Arial, sans-serif" font-size="26" fill="#3d342d">Fast, trustworthy lead generation for booked calls and qualified form submissions.</text>
+</svg>

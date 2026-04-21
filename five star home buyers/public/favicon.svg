@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="5 Star Home Buyers">
+  <rect width="128" height="128" rx="26" fill="#f7f2e9"/>
+  <path d="M22 72L64 40l42 32v28H22V72Z" fill="#171311"/>
+  <path d="M32 71h64v21H32z" fill="#fffaf3"/>
+  <path d="M48 62h32v30H48z" fill="#171311" opacity=".12"/>
+  <path d="M44 80h12v12H44zM72 80h12v12H72z" fill="#171311"/>
+  <path d="M58 54l6-7 6 7" fill="none" stroke="#fffaf3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
